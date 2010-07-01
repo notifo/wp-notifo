@@ -1,8 +1,8 @@
 10
 
 dir
-259471
-http://plugins.svn.wordpress.org/wp-notifo
+259480
+http://plugins.svn.wordpress.org/wp-notifo/tags
 http://plugins.svn.wordpress.org
 
 
@@ -26,12 +26,12 @@ errantx
 
 b8457f37-d9ea-0310-8a92-e5e31aec5664
 
-trunk
+1.0.1
 dir
 
-branches
+1.1.0
 dir
 
-tags
+1.1.1
 dir
 
